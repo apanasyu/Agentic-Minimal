@@ -192,4 +192,4 @@ PRs welcome. Keep changes minimal and test‑backed. New features must add contr
 ---
 
 ## License
-MIT © You
+MIT
